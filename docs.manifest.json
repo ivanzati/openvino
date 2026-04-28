@@ -1,0 +1,10 @@
+{
+  "id": "openvino",
+  "label": "OpenVINO Toolkit",
+  "docsPath": "docs",
+  "routeBasePath": "openvino",
+  "sparseCheckoutPaths": [
+    "docs/",
+    "docs.manifest.json"
+  ]
+}
